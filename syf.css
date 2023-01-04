@@ -1,0 +1,23 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	line-height: 1.6;
+	color: #CD5C5C;
+	background: #03FFA7
+}
+
+}
+.left {
+	float: left;
+	margin: 0 1em 1em 0;
+}
+
+.content {
+    top: 82px; /* Расстояние от верхнего края */
+    left: 170px; /* Расстояние от левого края */ 
+    bottom: 0; right: 0;
+   }
+
+.text {
+	text-align: center;
+}
